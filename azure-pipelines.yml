@@ -5,7 +5,6 @@ pool:
   name: ag_pool
   demands:
   - npm
-
   
 variables:
   buildConfiguration: 'Release'
